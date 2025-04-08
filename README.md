@@ -30,4 +30,4 @@ A modern video-sharing web application built with **React**, **Firebase**, and *
 1. **Clone the repo**
    ```bash
    git clone https://github.com/Prashant-bhadauriya/viShare.git
-   cd video-sharing-app
+   cd viShare
